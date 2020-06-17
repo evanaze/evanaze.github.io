@@ -103,7 +103,7 @@ social:
 analytics:
   provider               : "google-gtag"
   google:
-    tracking_id          : UA-160824143-1
+    tracking_id          : UA-141647177-2
     anonymize_ip         : false
 
 
