@@ -1,5 +1,5 @@
 ---
-title: "Model Transparency and Explainability"
+title: "Predicting Economics with AI"
 date: 2020-03-20
 tags: [seo, writing, machine learning]
 excerpt: "machine learning, seo, writing"
