@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/IMG_0399.jpg
   actions:
     - label: "Download"
-      url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2019_AzevedoEvan.pdf"
+      url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
 excerpt: "Click here to download a copy of my resume"
 ---
 
