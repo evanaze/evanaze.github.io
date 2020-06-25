@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Network Health Results are In"
+title: "Blog: To Trade or Not To Trade: Volatility and Crypto Assets"
 date: 2018-08-22
 tags: [blockchain, writing, finance]
 excerpt: "Blockchian, finance, cryptocurrency"

@@ -1,5 +1,5 @@
 ---
-title: "Tracking Tuesday’s Ethereum Network Overload"
+title: "Blog: Tracking Tuesday’s Ethereum Network Overload"
 date: 2018-08-11
 tags: [blockchain, writing, finance]
 excerpt: "Blockchian, finance, cryptocurrency"

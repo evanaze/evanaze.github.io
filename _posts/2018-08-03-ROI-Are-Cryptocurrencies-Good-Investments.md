@@ -1,5 +1,5 @@
 ---
-title: "ROI: Are Cryptocurrencies Good Investments?"
+title: "Blog: ROI: Are Cryptocurrencies Good Investments?"
 date: 2018-08-03
 tags: [blockchain, writing, finance]
 excerpt: "Blockchian, finance, cryptocurrency"

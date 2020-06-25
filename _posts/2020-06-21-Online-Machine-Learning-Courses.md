@@ -1,5 +1,5 @@
 ---
-title: "Online Machine Learning Courses"
+title: "Blog: Online Machine Learning Courses"
 date: 2020-06-21
 tags: [seo, writing, machine learning]
 excerpt: "machine learning, seo, writing"

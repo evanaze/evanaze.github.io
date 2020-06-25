@@ -1,5 +1,5 @@
 ---
-title: "Model Transparency and Explainability"
+title: "Blog: Model Transparency and Explainability"
 date: 2020-03-13
 tags: [seo, writing, machine learning]
 excerpt: "machine learning, seo, writing"

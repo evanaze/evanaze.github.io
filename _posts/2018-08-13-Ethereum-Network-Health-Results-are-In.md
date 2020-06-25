@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Network Health Results are In"
+title: "Blog: Ethereum Network Health Results are In"
 date: 2018-08-13
 tags: [blockchain, writing, finance]
 excerpt: "Blockchian, finance, cryptocurrency"
