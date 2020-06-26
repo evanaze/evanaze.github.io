@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark"
 
 # Site Settings
@@ -88,7 +88,7 @@ facebook:
   username               : "evanazz"
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/IMG_3027.png"
+og_image                 : "/assets/images/IMG_3027.jpeg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Evan Azevedo"
-  avatar           : "/assets/images/IMG_3027.png"
+  avatar           : "/assets/images/IMG_3027.jpeg"
   bio              : "Data Science Intern at Aktana"
   location         : "Pleasanton, CA"
   email            :
