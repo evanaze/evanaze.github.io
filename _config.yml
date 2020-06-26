@@ -88,7 +88,7 @@ facebook:
   username               : "evanazz"
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/IMG_3026.jpg"
+og_image                 : "/assets/images/IMG_3027.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -110,8 +110,8 @@ analytics:
 # Site Author
 author:
   name             : "Evan Azevedo"
-  avatar           : "/assets/images/IMG_3027.jpg"
-  bio              : "Data Scientist"
+  avatar           : "/assets/images/IMG_3027.png"
+  bio              : "Data Science Intern at Aktana"
   location         : "Pleasanton, CA"
   email            :
   links:
@@ -137,9 +137,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/azevedo_evan"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/evanazz#"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/evanaze/"
