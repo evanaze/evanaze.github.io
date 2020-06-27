@@ -1,7 +1,7 @@
 ---
-title: "Blog: Online Machine Learning Courses"
+title: "Blog Post: Online Machine Learning Courses"
 date: 2020-04-01
-tags: [seo, writing, machine learning]
-excerpt: "Machine Learning, SEO, Writing"
+tags: [seo, blog post, machine learning]
+excerpt: "Machine Learning, SEO, Blog Post"
 link: https://ople.ai/ai-blog/online-machine-learning-courses/
 ---
