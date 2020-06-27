@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3" 
-  overlay_image: /assets/images/main_header.jpeg
+  overlay_image: /assets/images/zachary-shakked-VLFhX4AK0kc-unsplash.jpg
   actions:
     - label: "<i class='fas fa-folder-open'></i> My Resume"
       url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
