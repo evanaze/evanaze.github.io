@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Evan Azevedo"
 description              : "Data Science Portfolio"
 url                      : "https://evanaze.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "evanaze/evanaze.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/main_logo.png"
@@ -88,7 +88,7 @@ facebook:
   username               : "evanazz"
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/IMG_3027.jpeg"
+og_image                 : "/assets/images/headshot.jpeg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Evan Azevedo"
-  avatar           : "/assets/images/IMG_3027.jpeg"
+  avatar           : "/assets/images/heashot.jpeg"
   bio              : "Data Science Intern at Aktana"
   location         : "Pleasanton, CA"
   email            :
