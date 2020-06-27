@@ -5,4 +5,4 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-Sample document listing for the collection `_portfolio`.
+A collection of all of my blog posts and project write-ups.

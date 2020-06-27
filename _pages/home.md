@@ -13,16 +13,13 @@ excerpt: "My online portfolio of work in data science and technical writing."
 intro: 
   - excerpt: 'I am currently a Data Science intern at Aktana, and a Developer Advocate at Amberdata. I am currently looking for a full time position in Data Science or Machine Learning.'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - image_path: assets/images/captcha_sample.png
     title: "Captcha Project"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Building an ML model to count the number of squares in a noisy image."
     url: "google.com"
     btn_label: "View"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
     title: "Sitcom NLP"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "google.com"
