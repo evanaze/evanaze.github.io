@@ -19,7 +19,7 @@ feature_row:
     url: "google.com"
     btn_label: "View"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/spongebob.png
     title: "Sitcom NLP"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "google.com"
