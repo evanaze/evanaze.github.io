@@ -21,7 +21,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/spongebob.png
     title: "Sitcom NLP"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Simulating dialogue of popular sitcoms."
     url: "google.com"
     btn_label: "View"
     btn_class: "btn--primary"
