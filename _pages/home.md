@@ -1,8 +1,7 @@
 ---
-title: "Splash Page"
+title: "Home Page"
 layout: splash
-permalink: /splash-page/
-date: 2016-03-23T11:48:41-04:00
+permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_0399.jpg
