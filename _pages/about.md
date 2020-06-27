@@ -2,7 +2,7 @@
 title: "About Me"
 permalink: /about/
 header:
-  image: /assets/images/main_header.jpeg
+  image: /assets/images/zachary-shakked-VLFhX4AK0kc-unsplash.jpg
 excerpt: "Click here to download a copy of my resume"
 ---
 
