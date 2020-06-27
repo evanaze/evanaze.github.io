@@ -27,7 +27,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/joel-filipe-QwoNAhbmLLo-unsplash.jpg
     title: "Blog"
-    excerpt: "Check out my portfolio of ."
+    excerpt: "Check out my portfolio of write-ups and technical blog posts."
 ---
 
 {% include feature_row id="intro" type="center" %}
