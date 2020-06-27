@@ -1,10 +1,7 @@
 ---
-title: Projects
-layout: collection
-permalink: /projects/
-collection: portfolio
-entries_layout: grid
-classes: wide
+title: Portfolio
+layout: tags
+permalink: /portfolio/
 author_profile: true
 ---
 
