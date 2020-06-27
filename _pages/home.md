@@ -4,30 +4,32 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/IMG_0399.jpg
   actions:
     - label: "<i class='fas fa-folder-open'></i> My Resume"
       url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
 excerpt: "My online portfolio of work in data science and technical writing."
 intro: 
-  - excerpt: 'I am currently a Data Science intern at Aktana, and a Developer Advocate at Amberdata. I am currently looking for a full time position in Data Science or Machine Learning'
-    type: center
+  - excerpt: 'I am currently a Data Science intern at Aktana, and a Developer Advocate at Amberdata. I am currently looking for a full time position in Data Science or Machine Learning.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "Captcha Project"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "google.com"
+    btn_label: "View"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "Sitcom NLP"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "google.com"
-    btn_label: "Read More"
+    btn_label: "View"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
+    title: "Blog"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
