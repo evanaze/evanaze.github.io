@@ -9,9 +9,9 @@ header:
   actions:
     - label: "<i class='fas fa-folder-open'></i> My Resume"
       url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
-excerpt: "To my online portfolio of work in data science and technical writing"
+excerpt: "My online portfolio of work in data science and technical writing."
 intro: 
-  - excerpt: 'ffff'
+  - excerpt: 'I am currently a Data Science intern at Aktana, and a Developer Advocate at Amberdata. I am currently looking for a full time position in Data Science or Machine Learning'
     type: center
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -23,7 +23,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "google.com"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
