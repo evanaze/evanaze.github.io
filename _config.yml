@@ -101,10 +101,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag"
+  provider               : "google-universal"
   google:
     tracking_id          : UA-141647177-2
-    anonymize_ip         : false
+    anonymize_ip         : true
 
 
 # Site Author
