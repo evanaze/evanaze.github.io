@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Evan Azevedo"
-  avatar           : "/assets/images/heashot.jpeg"
+  avatar           : "/assets/images/headshot.jpeg"
   bio              : "Data Science Intern at Aktana"
   location         : "Pleasanton, CA"
   email            :
