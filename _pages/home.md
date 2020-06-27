@@ -3,8 +3,6 @@ title: "Welcome"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
   image: /assets/images/main_header.jpeg
   actions:
     - label: "<i class='fas fa-folder-open'></i> My Resume"
