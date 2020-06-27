@@ -25,9 +25,9 @@ feature_row:
     url: "google.com"
     btn_label: "View"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/joel-filipe-QwoNAhbmLLo-unsplash.jpg
     title: "Blog"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Check out my portfolio of ."
 ---
 
 {% include feature_row id="intro" type="center" %}
