@@ -3,7 +3,9 @@ title: "Welcome"
 layout: splash
 permalink: /
 header:
-  image: /assets/images/main_header.jpeg
+  overlay_color: "#000"
+  overlay_filter: "0.3" 
+  overlay_image: /assets/images/main_header.jpeg
   actions:
     - label: "<i class='fas fa-folder-open'></i> My Resume"
       url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
