@@ -29,7 +29,7 @@ feature_row:
     title: "Other"
     excerpt: "Check out some of my other work in the portfolio tab"
 ---
-FF 
+<center>Centered text</center>
 
 {% include feature_row id="intro" type="center" %}
 
