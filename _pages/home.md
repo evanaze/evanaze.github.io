@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3" 
-  overlay_image: /assets/images/zachary-shakked-VLFhX4AK0kc-unsplash.jpg
+  overlay_image: /assets/images/unsplashed_bridge.jpg
   actions:
     - label: "<i class='fas fa-folder-open'></i> My Resume"
       url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
@@ -25,7 +25,7 @@ feature_row:
     url: "https://evanaze.github.io/projects/sitcom-nlp/"
     btn_label: "View"
     btn_class: "btn--primary"
-  - image_path: /assets/images/zachary-shakked-VLFhX4AK0kc-unsplash.jpg
+  - image_path: /assets/images/unsplashed_swirl.jpg
     title: "Other"
     excerpt: "Check out some of my other work in the portfolio tab"
 ---
