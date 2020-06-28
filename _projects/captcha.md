@@ -3,7 +3,7 @@ title: "Captcha"
 excerpt: "Solving custom captchas."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: assets/images/captcha_sample.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
