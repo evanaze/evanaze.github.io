@@ -4,28 +4,20 @@ date: 2018-05-23
 tags: [data science, nlp]
 excerpt: "Data Science, NLP"
 toc: true
+toc_label: "Sitcom NLP"
 ---
 
 # SpongeGuyParkFeld
 A NLP project on Sitcom Transcript data.
 
-# Table of Contents
-* [Abstract](#Abstract)
-* [Contributors](#Contributors)
-* [Sources of Data](#Sources-of-Data)
-* [Hypothesis](#Hypothesis)
-* [Methods](#Methods)
-* [Results](#Results)
-* [Conclusion](#Conclusion)
-
-## <a name="Abstract"></a>Abstract
+## Abstract
 We clean and analyze online transcripts of several popular American sitcoms (Family Guy, South Park, Seinfeld, Spongebob) and present our findings.
 We find these to be suitable datasets to perform typical NLP tasks, such as Word2Vec and line classification.
 The desired outcome of this project is a text generator which will be able to create new content based on the styles of these individual shows.
 
 This project was originally presented at the Data Science at UCSB 2018 Project Showcase. The original presentation for the project is [here](https://docs.google.com/presentation/d/1tm_tGSa-2cQLT_X32dEF-ixEbu37GI1b3ztElJZmI3I/edit?usp=sharing), and the Github page is [here](https://github.com/JayDSingh/SpongeGuyParkFeld). Check out Data Science at UCSB [here](http://datascienceucsb.org/).
 
-## <a name="Contributors"></a>Contributors
+## Contributors
 
 - Jay Singh
 - Lauren Shin
@@ -38,13 +30,13 @@ This project was originally presented at the Data Science at UCSB 2018 Project S
 
 Special thanks to Jason Freeberg and Timothy Nguyen for giving us guidance in our beginning and later stages, respectively.
 
-## <a name="Sources-of-Data"></a>Sources of Data
+## Data Sources
 
 [Spongebob](http://spongebob.wikia.com/wiki/List_of_transcripts#Season)  
 [South Park](https://www.kaggle.com/tovarischsukhov/southparklines)  
 [Seinfeld](http://www.seinfeldscripts.com/)  
 
-## <a name="Hypothesis"></a>Hypothesis
+## Hypothesis
 
 Spongebob, South Park, and Seinfeld are all popular TV Sitcoms that feature a male lead,
 several fleshed out and unique supporting characters, and different types of humor.
@@ -52,7 +44,7 @@ We hypothesize that despite their similarities, there are some key differences b
 
 Furthermore, we believe that we can mine enough data in the text transcripts of these shows to use deep learning methods.
 
-## <a name="Methods"></a>Methods
+## Methods
 
 First, we use the Beautiful Soup package in Python to scrape the transcript data from these shows from the sources listed above.
 The result was data in the form:  
@@ -66,7 +58,7 @@ Further, we implemented the Word2Vec algorithm to get word similarity within the
 Our implementation of Word2vec came from the Tensorflow examples on [Github](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/word2vec.py).
 We also trained a recurrent neural network on the raw, punctuated data.
 
-## <a name="Results"></a>Results
+## Results
 
 Random forests performed the best at line classification, achieving 88% accuracy.
 Naive Bayes and SVM followed with 75% and 78% accuracy, respectively.
@@ -90,7 +82,7 @@ The RNN was able to generate lines on the South Park data such as:
 * Announcer: "a lot, but it's the kpenis
 and every there is experience am incracted natives, timmiihhhhehi american rebecca. "
 
-## <a name="Conclusion"></a>Conclusion
+## Conclusion
 
 We found that we created sufficient datasets from online resources on transcripts for popular sitcoms for NLP purposes.
 We were able to train a robust classifier that was able to identify which show a line came from with 88% accuracy.
