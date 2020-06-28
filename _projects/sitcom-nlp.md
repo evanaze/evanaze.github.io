@@ -2,8 +2,8 @@
 title: "Sitcom NLP"
 excerpt: "Choose a Sitcom, and emulate dialogue."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/spongebob.png
+  teaser: assets/images/spongebob.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
