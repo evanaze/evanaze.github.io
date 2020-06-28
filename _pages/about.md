@@ -7,7 +7,9 @@ header:
 excerpt: "Click here to download a copy of my resume"
 ---
 
-I'm a graduate from UC Santa Barbara with experience in data science projects, deep learning, financial metrics, creating production level code, and sharing insights.
+I am currently a Data Science Intern at [Aktana](https://www.aktana.com), and a Developer Advocate at [Amberdata](https://amberdata.io).
+
+I did my undergrad at UC Santa Barbara in Physics and Statistical Science with an emphasis in Probability and Statistics. My professional experience includes data science projects, deep learning, financial metrics, creating production level code, and sharing insights.
 
 This website contains a few of my selected projects and coursework, and links to my social media accounts. 
 

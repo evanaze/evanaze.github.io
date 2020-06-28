@@ -21,7 +21,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/spongebob.png
     title: "Sitcom NLP"
-    excerpt: "Simulating dialogue of popular sitcoms."
+    excerpt: "Simulating dialogue of three popular sitcoms, scraped from online sources."
     url: "https://evanaze.github.io/projects/sitcom-nlp/"
     btn_label: "View"
     btn_class: "btn--primary"
