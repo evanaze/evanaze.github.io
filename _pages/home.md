@@ -11,23 +11,23 @@ header:
       url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
 excerpt: "My online portfolio of work in data science and technical writing."
 intro: 
-  - excerpt: 'I am currently a Data Science intern at Aktana, and a Developer Advocate at Amberdata. I am currently looking for a full time position in Data Science or Machine Learning.'
-#feature_row:
-#  - image_path: assets/images/captcha_sample.png
-#    title: "Captcha Project"
-#    excerpt: "Building an ML model to count the number of squares in a noisy image."
-#    url: "google.com"
-#    btn_label: "View"
-#    btn_class: "btn--primary"
-#  - image_path: /assets/images/spongebob.png
-#    title: "Sitcom NLP"
-#    excerpt: "Simulating dialogue of popular sitcoms."
-#    url: "google.com"
-#    btn_label: "View"
-#    btn_class: "btn--primary"
-#  - image_path: /assets/images/joel-filipe-QwoNAhbmLLo-unsplash.jpg
-#    title: "Blog"
-#    excerpt: "Check out my portfolio of write-ups and technical blog posts."
+  - excerpt: ''
+feature_row:
+  - image_path: assets/images/captcha_sample.png
+    title: "Captcha Project"
+    excerpt: "Building an ML model to count the number of squares in a noisy image."
+    url: "https://evanaze.github.io/projects/captcha/"
+    btn_label: "View"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/spongebob.png
+    title: "Sitcom NLP"
+    excerpt: "Simulating dialogue of popular sitcoms."
+    url: "https://evanaze.github.io/projects/sitcom-nlp/"
+    btn_label: "View"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/joel-filipe-QwoNAhbmLLo-unsplash.jpg
+    title: "Blog"
+    excerpt: "Check out my portfolio of write-ups and technical blog posts."
 ---
 
 {% include feature_row id="intro" type="center" %}
