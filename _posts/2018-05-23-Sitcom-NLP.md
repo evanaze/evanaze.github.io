@@ -3,6 +3,7 @@ title: "Data Science Project: Sitcom NLP"
 date: 2018-05-23
 tags: [data science, nlp]
 excerpt: "Data Science, NLP"
+toc: true
 ---
 
 # SpongeGuyParkFeld
