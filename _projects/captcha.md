@@ -2,7 +2,6 @@
 title: "Captcha"
 excerpt: "Solving custom captchas."
 header:
-  image: /assets/images/captcha_sample.jpg
   teaser: assets/images/captcha_sample.png
 sidebar:
   - title: "Role"
