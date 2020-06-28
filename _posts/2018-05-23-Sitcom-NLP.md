@@ -7,9 +7,6 @@ toc: true
 toc_label: "Sitcom NLP"
 ---
 
-# SpongeGuyParkFeld
-A NLP project on Sitcom Transcript data.
-
 ## Abstract
 We clean and analyze online transcripts of several popular American sitcoms (Family Guy, South Park, Seinfeld, Spongebob) and present our findings.
 We find these to be suitable datasets to perform typical NLP tasks, such as Word2Vec and line classification.
