@@ -12,13 +12,14 @@ header:
 excerpt: "My online portfolio of work in data science and technical writing."
 intro: 
   - excerpt: ''
-feature_row:
+feature_row1:
   - image_path: assets/images/captcha_sample.png
     title: "Captcha Project"
     excerpt: "Building an ML model to count the number of squares in a noisy image."
     url: "https://evanaze.github.io/projects/captcha/"
     btn_label: "View"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/spongebob.png
     title: "Sitcom NLP"
     excerpt: "Simulating dialogue of popular sitcoms."
@@ -29,4 +30,6 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row1" type="left"%}
+
+{% include feature_row id="feature_row2" type="right" %}
