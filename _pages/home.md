@@ -11,7 +11,7 @@ header:
       url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
 excerpt: "My online portfolio of work in data science and technical writing."
 intro: 
-  - excerpt: '“'Optimism,' said Cacambo, 'What is that?' 'Alas!' replied Candide, 'It is the obstinacy of maintaining that everything is best when it is worst.'" ― Voltaire, Candide'
+  - excerpt: “'Optimism,' said Cacambo, 'What is that?' 'Alas!' replied Candide, 'It is the obstinacy of maintaining that everything is best when it is worst.'" ― Voltaire, Candide
 gallery:
   - image_path: assets/images/captcha_sample.png
     title: "Captcha Project"
