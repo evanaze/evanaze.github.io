@@ -7,12 +7,12 @@ toc: true
 toc_label: "Sitcom NLP"
 ---
 
+This project was originally presented at the Data Science at UCSB 2018 Project Showcase. The original presentation for the project is [here](https://docs.google.com/presentation/d/1tm_tGSa-2cQLT_X32dEF-ixEbu37GI1b3ztElJZmI3I/edit?usp=sharing), and the Github page is [here](https://github.com/JayDSingh/SpongeGuyParkFeld). Check out Data Science at UCSB [here](http://datascienceucsb.org/).
+
 ## Abstract
 We clean and analyze online transcripts of several popular American sitcoms (Family Guy, South Park, Seinfeld, Spongebob) and present our findings.
 We find these to be suitable datasets to perform typical NLP tasks, such as Word2Vec and line classification.
 The desired outcome of this project is a text generator which will be able to create new content based on the styles of these individual shows.
-
-This project was originally presented at the Data Science at UCSB 2018 Project Showcase. The original presentation for the project is [here](https://docs.google.com/presentation/d/1tm_tGSa-2cQLT_X32dEF-ixEbu37GI1b3ztElJZmI3I/edit?usp=sharing), and the Github page is [here](https://github.com/JayDSingh/SpongeGuyParkFeld). Check out Data Science at UCSB [here](http://datascienceucsb.org/).
 
 ## Contributors
 
