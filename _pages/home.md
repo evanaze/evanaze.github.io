@@ -12,7 +12,7 @@ header:
 excerpt: "My online portfolio of work in data science and technical writing."
 intro: 
   - excerpt: “'Optimism,' said Cacambo, 'What is that?' 'Alas!' replied Candide, 'It is the obstinacy of maintaining that everything is best when it is worst.'" ― Voltaire, Candide
-gallery:
+feature_row:
   - image_path: assets/images/captcha_sample.png
     title: "Captcha Project"
     excerpt: "Building an ML model to count the number of squares in a noisy image."
@@ -25,8 +25,11 @@ gallery:
     url: "https://evanaze.github.io/projects/sitcom-nlp/"
     btn_label: "View"
     btn_class: "btn--primary"
+  - image_path: /assets/images/zachary-shakked-VLFhX4AK0kc-unsplash.jpg
+    title: "Other"
+    excerpt: "Check out some of my other work in the portfolio tab"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery %}
+{% include feature_row %}
