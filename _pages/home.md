@@ -25,10 +25,8 @@ feature_row:
     url: "https://evanaze.github.io/projects/sitcom-nlp/"
     btn_label: "View"
     btn_class: "btn--primary"
-  - image_path: /assets/images/joel-filipe-QwoNAhbmLLo-unsplash.jpg
-    title: "Blog"
-    excerpt: "Check out my portfolio of write-ups and technical blog posts."
 ---
 
 {% include feature_row id="intro" type="center" %}
 
+{% include feature_row %}
