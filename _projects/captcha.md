@@ -5,4 +5,4 @@ header:
   teaser: assets/images/captcha_sample.png
 ---
 
-Here you can interact with my Captcha solver, which uses OpenCV and deep learning to solve a type of Captchas in few training samples.
+Here you can interact with my Captcha solver, which uses OpenCV and deep learning to solve a type of Captchas in few training samples. My blog post on this project lives [here](https://evanaze.github.io/Captcha-Image-Solver/).
