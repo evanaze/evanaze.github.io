@@ -29,7 +29,9 @@ feature_row:
     title: "Other"
     excerpt: "Check out some of my other work in the portfolio tab"
 ---
-<center>“'Optimism,' said Cacambo, 'What is that?' 'Alas!' replied Candide, 'It is the obstinacy of maintaining that everything is best when it is worst.'" ― Voltaire, Candide</center>
+<center>“'Optimism,' said Cacambo, 'What is that?'  
+'Alas!' replied Candide, 'It is the obstinacy of maintaining that everything is best when it is worst.'"  
+― *Voltaire, Candide*</center>
 
 {% include feature_row id="intro" type="center" %}
 
