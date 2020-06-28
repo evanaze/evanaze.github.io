@@ -29,9 +29,10 @@ feature_row:
     title: "Other"
     excerpt: "Check out some of my other work in the portfolio tab"
 ---
-<center>“'Optimism,' said Cacambo, 'What is that?'  
+<p align="center">“'Optimism,' said Cacambo, 'What is that?'  
 'Alas!' replied Candide, 'It is the obstinacy of maintaining that everything is best when it is worst.'"  
-― *Voltaire, Candide*</center>
+― *Voltaire, Candide*  
+</p>
 
 {% include feature_row id="intro" type="center" %}
 
