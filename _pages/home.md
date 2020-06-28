@@ -13,7 +13,7 @@ excerpt: "My online portfolio of work in data science and technical writing."
 intro: 
   - excerpt: '“Optimism," said Cacambo, "What is that?" "Alas!" replied Candide, "It is the obstinacy of maintaining that everything is best when it is worst.”
 ― Voltaire, Candide'
-feature_row:
+gallery:
   - image_path: assets/images/captcha_sample.png
     title: "Captcha Project"
     excerpt: "Building an ML model to count the number of squares in a noisy image."
@@ -30,4 +30,4 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row"%}
+{% include gallery %}
