@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-layout: tags
+layout: posts
 permalink: /portfolio/
 author_profile: true
 ---
