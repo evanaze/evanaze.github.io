@@ -8,4 +8,4 @@ classes: wide
 author_profile: true
 ---
 
-Sample document listing for the collection `_portfolio`.
+A place where you can interact with my machine learning projects.
