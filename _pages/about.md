@@ -2,9 +2,16 @@
 title: "About Me"
 permalink: /about/
 header:
-  image: /assets/images/unsplashed_bridge.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.3" 
+  overlay_image: /assets/images/unsplashed_bridge.jpg
   image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  actions:
+    - label: "<i class='fas fa-folder-open'></i> My Resume"
+      url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
+      
 ---
+<p align="center"><i>“Optimism," said Cacambo, "What is that?"<br> "Alas!" replied Candide, "It is the obstinacy of maintaining that everything is best when it is worst."</i><br> ― Voltaire, Candide</p>
 
 I am currently a Data Science Intern at [Aktana](https://www.aktana.com), and a Developer Advocate at [Amberdata](https://amberdata.io).
 
