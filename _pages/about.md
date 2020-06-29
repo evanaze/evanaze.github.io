@@ -2,14 +2,8 @@
 title: "About Me"
 permalink: /about/
 header:
-  overlay_image: /assets/images/unsplashed_bridge.jpg
-  overlay_color: "#000"
-  overlay_filter: "0.3" 
-  actions:
-    - label: "<i class='fas fa-folder-open'></i> My Resume"
-      url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
+  image: /assets/images/unsplashed_bridge.jpg
   image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-excerpt: "Click here to download a copy of my resume"
 ---
 
 I am currently a Data Science Intern at [Aktana](https://www.aktana.com), and a Developer Advocate at [Amberdata](https://amberdata.io).
