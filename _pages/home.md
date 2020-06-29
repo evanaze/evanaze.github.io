@@ -12,24 +12,24 @@ header:
 #excerpt: "My online portfolio of work in data science and technical writing."
 intro: 
   - excerpt: 
-feature_row:
-  - image_path: assets/images/captcha_sample.png
-    title: "Captcha Project"
-    excerpt: "Building an ML model to count the number of squares in a noisy image."
-    url: "https://evanaze.github.io/projects/captcha/"
-    btn_label: "View"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/spongebob.png
-    title: "Sitcom NLP"
-    excerpt: "Simulating dialogue of three popular sitcoms, scraped from online sources."
-    url: "https://evanaze.github.io/projects/sitcom-nlp/"
-    btn_label: "View"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplashed_swirl.jpg
-    title: "Other"
-    excerpt: "Check out some of my other work in the portfolio tab"
+#feature_row:
+#  - image_path: assets/images/captcha_sample.png
+#    title: "Captcha Project"
+#    excerpt: "Building an ML model to count the number of squares in a noisy image."
+#    url: "https://evanaze.github.io/projects/captcha/"
+#    btn_label: "View"
+#    btn_class: "btn--primary"
+#  - image_path: /assets/images/spongebob.png
+#    title: "Sitcom NLP"
+#    excerpt: "Simulating dialogue of three popular sitcoms, scraped from online sources."
+#    url: "https://evanaze.github.io/projects/sitcom-nlp/"
+#    btn_label: "View"
+#    btn_class: "btn--primary"
+#  - image_path: /assets/images/unsplashed_swirl.jpg
+#    title: "Other"
+#    excerpt: "Check out some of my other work in the portfolio tab"
 ---
-<p align="center">“'Optimism,' said Cacambo, 'What is that?'<br> 'Alas!' replied Candide, 'It is the obstinacy of maintaining that everything is best when it is worst.'"<br> ― <i>Voltaire, Candide</i></p>
+<p align="center"><i>“Optimism," said Cacambo, "What is that?"<br> "Alas!" replied Candide, "It is the obstinacy of maintaining that everything is best when it is worst."</i><br> ― Voltaire, Candide</p>
 
 {% include feature_row id="intro" type="center" %}
 
