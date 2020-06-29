@@ -14,9 +14,11 @@ excerpt: "I am a Data Science Intern currently working at [Aktana](https://www.a
 
 <p align="center"><i>“Optimism," said Cacambo, "What is that?"<br> "Alas!" replied Candide, "It is the obstinacy of maintaining that everything is best when it is worst."</i><br> ― Voltaire, Candide</p>
 
-I did my undergrad at UC Santa Barbara in Physics and Statistical Science with an emphasis in Probability and Statistics. Yes, that is really what it looks like. UCSB is one of the most beautiful Universities in the world. My professional experience includes data science projects, deep learning, financial metrics, creating production level code, and sharing insights.
+I did my undergrad at UC Santa Barbara in Physics and Statistical Science with an emphasis in Probability and Statistics. 
 
 {% include figure image_path="/assets/images/ucsb.jpg" caption="An aerial view of the UCSB campus." type="center"%}
+
+Yes, that is really what it looks like. UCSB is one of the most beautiful Universities in the world. My professional experience includes data science projects, deep learning, financial metrics, creating production level code, and sharing insights.
 
 In the past, I have done contract work in Data Science, as well as Pre-Sales and writing technical marketing content. I have done it all, from dropping off succulents with notes to call our inside sales team and organizing binders of marketing content to launching a machine learning model into production and presenting to stakeholders. As I expand my experience and try new things, I hope to find an avenue where I can provide maximum impact.
 
