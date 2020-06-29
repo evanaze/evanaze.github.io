@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.3" 
   overlay_image: /assets/images/unsplashed_bridge.jpg
   image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-  excerpt: "I am a Data Science Intern currently working at Aktana. I also write technical marketing content for Amberdata. I love math, science, finance, music, and more."
+excerpt: "I am a Data Science Intern currently working at Aktana. I also write technical marketing content for Amberdata. I love math, science, finance, music, and more."
   actions:
     - label: "<i class='fas fa-folder-open'></i> My Resume"
       url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
