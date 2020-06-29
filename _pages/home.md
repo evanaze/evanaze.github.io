@@ -5,7 +5,7 @@ permalink: /
 header:
   image: /assets/images/unsplashed_night.jpg
 intro: 
-  - excerpt: "I am a Data Science Intern currently working at Aktana. I also write technical marketing content for Amberdata. I love math, science, finance, music, and more."
+  - excerpt: "I am a Data Science Intern currently working at Aktana. I also am a Developer Advocate for [Amberdata](http://amberdata.io). I love math, science, finance, music, and more."
 #feature_row:
 #  - image_path: assets/images/captcha_sample.png
 #    title: "Captcha Project"
