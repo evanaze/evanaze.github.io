@@ -3,13 +3,13 @@ title: "Welcome"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3" 
-  overlay_image: /assets/images/unsplashed_night.jpg
-  actions:
-    - label: "<i class='fas fa-folder-open'></i> My Resume"
-      url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
-excerpt: "My online portfolio of work in data science and technical writing."
+#  overlay_color: "#000"
+#  overlay_filter: "0.3" 
+  image: /assets/images/unsplashed_night.jpg
+#  actions:
+#    - label: "<i class='fas fa-folder-open'></i> My Resume"
+#      url: "https://github.com/evanaze/evanaze.github.io/raw/master/assets/documents/2020_AzevedoEvan.pdf"
+#excerpt: "My online portfolio of work in data science and technical writing."
 intro: 
   - excerpt: 
 feature_row:
