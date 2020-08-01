@@ -5,5 +5,7 @@ header:
   teaser: assets/images/spongebob.png
 ---
 
+COMING SOON!
+
 Let's interact with the text generator from my Sitcom NLP project. For my full blog post on my Sitcom NLP project, see this [post](https://evanaze.github.io/Sitcom-NLP/).
 
