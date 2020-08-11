@@ -26,4 +26,4 @@ There are two main tools you will want to use in solving this problem: OpenCV, a
 Using OpenCV alone got me 90% of the way there. [OpenCV](https://opencv.org) is a library built in C++ for image processing, and can do some very powerful stuff. There is also a Python package for OpenCV called [opencv-python](https://pypi.org/project/opencv-python/), and here are the [tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/) if you are interested.
 
 ### Method 2: OpenCV + Deep Learning
-For the last 8 to 10% of images, I figured something more needed to be done. I either needed to 
+For the last 8 to 10% of images, I figured something more needed to be done.
