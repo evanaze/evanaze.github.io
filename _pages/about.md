@@ -12,7 +12,7 @@ header:
 excerpt: "I am a Data Science Intern currently working at [Aktana](https://www.aktana.com). I also am a Developer Advocate for [Amberdata](http://amberdata.io). I love math, science, finance, philosophy, music, and more."   
 ---
 
-<p align="center"><i>“Optimism," said Cacambo, "What is that?"<br> "Alas!" replied Candide, "It is the obstinacy of maintaining that everything is best when it is worst."</i><br> ― Voltaire, Candide</p>
+<p align="center"><i>The breeze which heaven has sent<br>We must endure, and toil without complaining.</i><br> ― Marcus Aurelius, Meditations</p>
 
 I did my undergrad at UC Santa Barbara in Physics and Statistical Science with an emphasis in Probability and Statistics. 
 
