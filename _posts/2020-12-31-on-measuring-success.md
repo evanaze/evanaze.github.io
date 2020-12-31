@@ -3,8 +3,25 @@ title: "Blog Post: On Measuring Success"
 date: 2020-12-31
 tags: [opinion, philosophy]
 excerpt: "Measuring Success"
+references:
+- id: fenner2012a
+  title: One-click science marketing
+  author:
+  - family: Fenner
+    given: Martin
+  container-title: Nature Materials
+  volume: 11
+  URL: 'http://dx.doi.org/10.1038/nmat3283'
+  DOI: 10.1038/nmat3283
+  issue: 4
+  publisher: Nature Publishing Group
+  page: 261-263
+  type: article-journal
+  issued:
+    year: 2012
+    month: 3
 ---
-# On Measuring Success
+
 As 2020 wraps up, I think it is a good time to reflect and look forward a bit to what has made me happiest and feeling most successful. 
 If I have learned anything this year, it is that there are things you can control, and things you cannot control. 
 One of the most powerful things you can control is what you allow into your life.  
@@ -41,3 +58,5 @@ What can you build? Who can you influence? These questions are answered and refl
 ## Making a Measurement
 ## Failure
 ## Sources
+* What You're Really Meant to Do - Robert Steven Kaplan
+* Building a Life - Howard H. Stevenson (https://youtu.be/wLn28DrSF68)
