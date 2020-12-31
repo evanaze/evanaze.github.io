@@ -95,26 +95,60 @@ Having several positive relationships in your life can often combine to make thi
 
 Of course, there is a limit here due to our mortal nature. We unfortunately have mouths and eyes, not routers and modems for making connections.
 Scientists have suggested that people tend to form groups of roughly 100 to 150 people.
-Any larger than that, and the group tends to fracture into sub groups and separate into a new group.
+Any larger than that, and the group tends to fracture into sub-groups and separate into a new group.
 
 #### Questions
-Some associated questions would be: how many people love me? What kind of impact do I have on others? If you asked my friends about our relationship, what would they say? What about my parents or my lovers? Are there people in my life that I can count on to be there for me, and can count on me?
+Some associated questions would be: 
+* How many people love me?
+* What kind of impact do I have on others?
+* If you asked my friends about our relationship, what would they say? What about my parents, children, or my lovers? 
+* Are there people in my life that I can count on to be there for me, and can count on me?
 
 ### Spirituality
-
 I believe that this vector of success is the least emphasized and least understood in our culture.
 Spirituality does not necessarily mean religion, 
 One way to look at spirituality is as the dot product between what you want to be, and what you are.
 
 ![Visualizing a dot product](/assets/images/iu.png)
 
+#### Questions
+
+
 ## Making a Measurement
+The most difficult challenge in achieving success is honesty.
+How many of us have thought things are going great, when all of a sudden we get hit by a bout of depression, or a prolonged job search, or a "dry spell"?
+Frequent and honest evaluation of yourself along these three dimensions is crucial for success.
 
+Of the three vectors, the easiest to measure is the career by far. 
+The free market determines how successful of a career you have.
+As you might imagine, plenty of books are written on this subject.
+If you are interested in learning more about building career success that also brings overall success in the way we define it, I suggest checking out the book What You're Really Meant to Do by Robert Kaplan [^1].
 
+The other two: relationships and spirituality are much more difficult to measure. 
+Unfortunately, we do not have a decentrialized system with a currency filled with agents (the free market) to help us evaluate these two.
+As much as some of us wished it were true, your number of Instagram followers does not measure the success of your relationships.
+Similarly, just because you go to church twice a week does not make you a spiritually healthy person.
+
+While we will not have close to the same accuracy as you do in the free market, my sense is that these last two can start to be measured by giving questionaires, similarly to a personality test but with questions similar to the ones I gave above.
+
+## Helpful Resources
+On this journey, there are several things that we can do to maximize our chances of achieving success.
+Some people think that these are ends, but they are simply tools that you can use that support yourself in getting towards success.
+Here are some of the biggest tools for achieving success:
+
+* Health - both mental and physical. Physical health is one of the most important factors for life satisfaction and well-being. Diet is huge. Also, go to therapy!
+* Journaling - This can be a good time to do honest evaluation of yourself as we discussed earlier, or just vent about life.
+* Meditation - Even 10 minutes a day helps you center yourself and calm the mental noise, and also understand your thoughts more. I should be better about this one.
+* Reading and learning - This one is not to be done lightly. It is ok to love learning, but there is also something to be said about deliberate learning. One piece of advice that I follow is if you start to lose interest in a book, move on to the next one. Life is too short to finish books that do not interest you.
+* Personal Finance - Oh boy, I spent a lot of time reading about this one. Truth be told, you can figure out enough to cover yourself in 90% of situations with just a day's worth of research. What works for me is to figure out how to "set it and forget it" and do not spend too much time finding the absolute lowest cost index fund and tracking every penny. Having this down greatly increases the stability of your life, and that is what we are after here.
 
 ## Failure
+We can't talk about success without bringing up the topic of failure.
+Failure means you are pushing yourself, and is nothing to be ashamed of.
+It is worth saying, that just because you fail does not make you a bad person, or mean that you will not achieve success as we have defined it here.
 
-
+I think a healthier way to look at failure is to note wh at the indended outcome was, why you were unable to get there, and then make a note to revisit it in the future.
+Ultimately our goal is to create a life where we have all of the things we want, and of course failure will come along for the ride.
 
 ## Sources
 
