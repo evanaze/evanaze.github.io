@@ -1,25 +1,10 @@
 ---
-title: "Blog Post: On Measuring Success"
+title: "Opinion: On Measuring Success"
 date: 2020-12-31
 tags: [opinion, philosophy]
-excerpt: "Measuring Success"
-references:
-- id: fenner2012a
-  title: One-click science marketing
-  author:
-  - family: Fenner
-    given: Martin
-  container-title: Nature Materials
-  volume: 11
-  URL: 'http://dx.doi.org/10.1038/nmat3283'
-  DOI: 10.1038/nmat3283
-  issue: 4
-  publisher: Nature Publishing Group
-  page: 261-263
-  type: article-journal
-  issued:
-    year: 2012
-    month: 3
+excerpt: "Philosophy, Measuring Success"
+header:
+    image: /assets/images/gerrie-van-der-walt-Ow7T2QWLMBY-unsplash.jpg
 ---
 
 As 2020 wraps up, I think it is a good time to reflect and look forward a bit to what has made me happiest and feeling most successful. 
@@ -54,9 +39,23 @@ What can you build? Who can you influence? These questions are answered and refl
 
 
 ### Relationships
+
+
+
 ### Spirituality
+
+
+
 ## Making a Measurement
+
+
+
 ## Failure
+
+
+
 ## Sources
-* What You're Really Meant to Do - Robert Steven Kaplan
-* Building a Life - Howard H. Stevenson (https://youtu.be/wLn28DrSF68)
+
+[^1]: [What You're Really Meant to Do](https://www.goodreads.com/book/show/17624016-what-you-re-really-meant-to-do) - Robert Steven Kaplan
+[^2]: [Building a Life](https://youtu.be/wLn28DrSF68) - Howard H. Stevenson 
+[^3]: [Thus Spoke Zarathustra](https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra?ac=1&from_search=true&qid=DtizlxsT4j&rank=1) - Friedrich Nietzche
