@@ -18,8 +18,18 @@ This post is partially inspired by Nietzche's book, Thus Spoke Zarathustra [^3].
 The book is covers this topic and more and has a lot of great content on the subject, so if you are interested I definitely reccomend checking it out.
 I will use ideas from the book in defining what I mean by "success" in this context.
 
-## The Uberhuman
+## Core Concepts
+When I started reading Thus Spoke Zarathustra, I came across an exceptionally profound question that granted me a valuable paradigm, in which I started to formulate this philosophy.
+The question is a thought experiment that has to do with Nietzche's concept of Eternal Recurrence.
 
+### Eternal Recurrence
+Imagine that tonight a demon sneaks into your bedroom and poses you a directive: you are to relive your life exactly in the same way up until this point an infinite amount of times. 
+What is your reaction? Do you scream in terror at the thought of such a horrible task? Or does your face light up when you imagine all the pleasure you will have from each iteration?
+The sad fact of the matter is that most of us live in the first camp. 
+However, now that we understand this question and our response to it, we can make steady progress towards the second camp. 
+Today my goal is to share a bit about my personal, practical philosophy/framework for getting there, and I frame it in terms of success.
+
+### The Uberhuman
 In the book, the main protagonist Zarathustra explains that the human is meant to be overcome.
 He sees the Uberhuman as the actualization of the next evolution in man as a higher state of being.
 This is represented in popular culture by the baby at the end of Stanley Kubrik's 2001: A Space Odyssey.
@@ -34,6 +44,12 @@ We all have an image of the best versions of ourselves, and what we want our liv
 My view of success is living in that space.
 All of the elements in our lives are aligned in such a way that we are living in accordance with our highest selves.
 
+In order to understand this picture fully, it is worthwhile to also introduce two more key concepts from the book.
+
+### Will to Power
+Will to power can be understood as the drive you have to become something.
+It does not necessarily include power in the traditional sense, but incapsulates everyth
+
 Another way to put it would be living to the highest standard of our practical selves.
 I think it is amazing that there are only a few things that really matter to becoming the strongest, most capable and best version of yourself. 
 It can be tempting to think of all the things in life that people want, and how much of it is not available to us, but if we dig down and ask "What would the best version of me have in spades?" I believe there are only three.
@@ -44,6 +60,10 @@ If you have too many virtues you will become bogged down in having too many goal
 But, neglecting one or more of these crucial dimensions of success will leave your life seriously lacking. 
 As somebody who studied physics in college, I am a huge fan of simplicity and having only a few governing principles.
 I believe that an arbitraty amount of complexity can arise from only a few simple elements and rules. 
+
+The way your success affects society is your career.
+The way your success affects those close to you are in relationships.
+The interaction of success with yourself is spirituality.
 
 I am open to more here, and to empirical evidence to support or reject these.
 But I believe that you should be as *selfish* as possible for all things along these dimensions.
@@ -97,6 +117,10 @@ Of course, there is a limit here due to our mortal nature. We unfortunately have
 Scientists have suggested that people tend to form groups of roughly 100 to 150 people.
 Any larger than that, and the group tends to fracture into sub-groups and separate into a new group.
 
+However, ignoring this area of success entirely is detrimental in several areas.
+Most Americans cant even name a single close friend.
+Building and maintaining this network takes a lot of effort, but one friend is so practically so much more than zero, and the benefits continue to increase as you add more relationships.
+
 #### Questions
 Some associated questions would be: 
 * How many people love me?
@@ -106,13 +130,16 @@ Some associated questions would be:
 
 ### Spirituality
 I believe that this vector of success is the least emphasized and least understood in our culture.
-Spirituality does not necessarily mean religion, 
+Spirituality does not necessarily mean religion, at least in the way I use it.
+Here I use spirituality to mean 
 One way to look at spirituality is as the dot product between what you want to be, and what you are.
 
 ![Visualizing a dot product](/assets/images/iu.png)
 
 #### Questions
-
+* Am I happy? Am I fulfilled by what I do and who I spend time with?
+* Can I practice radical acceptance?
+* Am I in touch with the natural world?
 
 ## Making a Measurement
 The most difficult challenge in achieving success is honesty.
