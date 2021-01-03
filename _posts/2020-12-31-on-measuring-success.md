@@ -53,17 +53,25 @@ It does not necessarily include power in the traditional sense, but incapsulates
 Another way to put it would be living to the highest standard of our practical selves.
 I think it is amazing that there are only a few things that really matter to becoming the strongest, most capable and best version of yourself. 
 It can be tempting to think of all the things in life that people want, and how much of it is not available to us, but if we dig down and ask "What would the best version of me have in spades?" I believe there are only three.
-I call these three the three vectors of success.
+I call these three the three dimensions of success.
 
-## The Vectors of Success
+## The Dimensions of Success
 If you have too many virtues you will become bogged down in having too many goals, and your direction will change constantly. 
 But, neglecting one or more of these crucial dimensions of success will leave your life seriously lacking. 
 As somebody who studied physics in college, I am a huge fan of simplicity and having only a few governing principles.
-I believe that an arbitraty amount of complexity can arise from only a few simple elements and rules. 
+I believe that an arbitraty amount of complexity can arise from only a few simple rules. 
 
+Harvard Professor Emeritus Howard H. Stevenson lists three aspects of success and says to think about them as balls to always juggle in his lecture on Building a Life [^2], 
+In his research on successful people, he found that the four areas that were most important to lifetime success were: happiness, significance, achievement, and legacy.
+While the lecture is full of good content and is worth a watch, I would like to propose a different set of dimensions for success that I think narrows down the list and makes it a bit more clear.
+
+My three dimensions of success are: **career**, **relationships**, and **spirituality**.
+Ideally, each one has a decreasing sphere of influence.
 The way your success affects society is your career.
 The way your success affects those close to you are in relationships.
 The interaction of success with yourself is spirituality.
+
+
 
 I am open to more here, and to empirical evidence to support or reject these.
 But I believe that you should be as *selfish* as possible for all things along these dimensions.
@@ -71,11 +79,11 @@ Nobody will make these happen for you, and even if they could, you wouldn't want
 Without further ado, let's get started.
 
 ### Career
-This one is the most supported and well understood vector of success in our culture. 
+This one is the most supported and well understood dimensions of success in our culture. 
 It is what we traditionally think of as "success" if we lazily bring up the term in our mind.
 The way I define it here, however, is a bit more broad.
 
-I define the career vector as living up to your potential. 
+I define the career dimension as living up to your potential. 
 It is all the things you "do" amounts to what impact you are able to have on the world.
 What can you build? Who can you influence? These questions are answered and reflected by the strength of your career.
 
@@ -129,7 +137,7 @@ Some associated questions would be:
 * Are there people in my life that I can count on to be there for me, and can count on me?
 
 ### Spirituality
-I believe that this vector of success is the least emphasized and least understood in our culture.
+I believe that this dimension of success is the least emphasized and least understood in our culture.
 Spirituality does not necessarily mean religion, at least in the way I use it.
 Here I use spirituality to mean 
 One way to look at spirituality is as the dot product between what you want to be, and what you are.
@@ -146,7 +154,7 @@ The most difficult challenge in achieving success is honesty.
 How many of us have thought things are going great, when all of a sudden we get hit by a bout of depression, or a prolonged job search, or a "dry spell"?
 Frequent and honest evaluation of yourself along these three dimensions is crucial for success.
 
-Of the three vectors, the easiest to measure is the career by far. 
+Of the three dimensions, the easiest to measure is the career by far. 
 The free market determines how successful of a career you have.
 As you might imagine, plenty of books are written on this subject.
 If you are interested in learning more about building career success that also brings overall success in the way we define it, I suggest checking out the book What You're Really Meant to Do by Robert Kaplan [^1].
