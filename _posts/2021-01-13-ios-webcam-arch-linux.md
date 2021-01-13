@@ -1,6 +1,6 @@
 ---
 title: "How To: Use your iPhone as a Webcam in OBS on Arch Linux""
-date: 2020-01-13
+date: 2021-01-13
 tags: [how to, guide, obs]
 excerpt: "How To, Guide"
 ---
